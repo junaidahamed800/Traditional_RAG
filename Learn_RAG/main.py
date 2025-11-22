@@ -1,1 +1,1 @@
-print("this is traditional rag")
+print("python")
