@@ -7,3 +7,4 @@ This Repository contians Traditional RAG pipeline workflow
 - WebBaseLoader
 - DirectoryLoader & etc..
 * Document is one type of data structre which has Two core components - page_content (String format) & metadata(Dictionary format) 
+- metadata is helpful in the similarity search as it is key-value pair data
