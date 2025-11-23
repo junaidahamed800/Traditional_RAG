@@ -13,5 +13,6 @@ dependencies = [
     "langchain-core>=1.1.0",
     "pymupdf>=1.26.6",
     "pypdf>=6.3.0",
-    "sentence-transformers>=5.1.2",
+    "sentence-transformers==2.2.2",
+    "transformers==4.36.2",
 ]
